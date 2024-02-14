@@ -1,0 +1,4 @@
+[versions]
+mockito4 = '4.11.0'
+mockito5 = '5.10.0'
+
